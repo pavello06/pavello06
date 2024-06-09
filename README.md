@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **pavello06/pavello06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, I'm Pavel 
+👋</h1>
+<h3 align="center">Software Engineer student</h3>
