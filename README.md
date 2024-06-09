@@ -42,7 +42,7 @@
 ## Badges
 
 <details>
-  <summary>&#128584; LeetCode</summary>
+  <summary>&#128585; LeetCode</summary>
   <a href="https://leetcode.com/u/pavello06/">
     <br/>
     <img src="https://leetcode-stats-six.vercel.app/api?username=pavello06&theme=dark" />
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary>&#128584; Code Wars</summary>
+  <summary>&#128585; Code Wars</summary>
   <a href="https://www.codewars.com/users/pavello06">
     <br/>
     <img src="https://www.codewars.com/users/pavello06/badges/large" />
