@@ -2,7 +2,7 @@
 
 * Software Engineer, Student
 
-## Skills
+<h2>Skills</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -25,7 +25,7 @@
   </a>  
 </div>
 
-## Socials
+<h2>Socials</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://www.github.com/Old-Butt-Gold" target="_blank" rel="noreferrer">
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-## Badges
+<h2>Badges</h2>
 
 <details>
   <summary>LeetCode</summary>
