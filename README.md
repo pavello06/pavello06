@@ -53,6 +53,6 @@
   <summary>&#128584; Code Wars</summary>
   <a href="https://www.codewars.com/users/pavello06">
     <br/>
-    <img src="https://www.codewars.com/users/pavello06/badges" />
+    <img src="https://www.codewars.com/users/pavello06/badges/large" />
   </a>
 </details>
