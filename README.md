@@ -23,7 +23,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
   </a>  
-</div>
+</div><br>
 
 <h2>Socials</h2>
 
