@@ -45,7 +45,7 @@
   <summary>LeetCode</summary>
   <a href="https://leetcode.com/u/pavello06/">
     <br/>
-    <img src="[https://leetcode-stats-six.vercel.app/api?username=pavello06&theme=dark](https://leetcard.jacoblin.cool/pavello06?animation=true&ext=activity)" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=pavello06&theme=dark" />
   </a>
 </details>
 
