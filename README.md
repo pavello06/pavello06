@@ -45,12 +45,12 @@
   <summary>LeetCode</summary>
   <a href="https://leetcode.com/u/pavello06/">
     <br/>
-    <img src="https://leetcode-stats-six.vercel.app/api?username=pavello06&theme=dark" />
+    <img src="[https://leetcode-stats-six.vercel.app/api?username=pavello06&theme=dark](https://leetcard.jacoblin.cool/pavello06?animation=true&ext=activity)" />
   </a>
 </details>
 
 <details>
-  <summary>Code Wars</summary>
+  <summary>CodeWars</summary>
   <a href="https://www.codewars.com/users/pavello06">
     <br/>
     <img src="https://www.codewars.com/users/pavello06/badges/large" />
