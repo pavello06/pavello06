@@ -10,8 +10,9 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cs"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+      <img src="https://skillicons.dev/icons?i=css" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=js"/>
     </div>
   </div>
