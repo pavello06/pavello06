@@ -3,7 +3,7 @@
     <h1>Pavel Halukha</h1>
   </div>
   <div>
-    <p><i>Student of BSUIR (Faculty of Computer Systems and Networks)</i></p>
+    <p><i>Student of BSUIR (Faculty of Computer Systems and Networks). Junior+ Flutter Developer</i></p>
   </div>
   <div>
     <h2>Skills</h2>
