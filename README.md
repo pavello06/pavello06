@@ -12,20 +12,6 @@
     </div>
   </div>
   <div>
-    <h2>Socials</h2>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <a href="https://www.linkedin.com/in/pavel-halukha-171291294/" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
-      </a>
-      <a href="https://www.instagram.com/pavello06/profilecard/?igsh=Y2Q0dm53c2hiZHFi" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>
-      </a>
-      <a href="https://t.me/pavello06" target="_blank" rel="noreferrer">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram"/>
-      </a>
-    </div>
-  </div>
-  <div>
     <h2>Badges</h2>
       <details>
         <summary>LeetCode</summary>
