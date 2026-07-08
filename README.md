@@ -1,6 +1,6 @@
 <body>
   <div>
-    <h1>Pavel Halukha</h1>
+    <h1>Pavel</h1>
   </div>
   <div>
     <p><i>Student of BSUIR (Faculty of Computer Systems and Networks). Junior+ Flutter Developer</i></p>
